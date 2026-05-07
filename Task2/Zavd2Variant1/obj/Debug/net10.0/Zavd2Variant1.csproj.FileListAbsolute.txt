@@ -1,0 +1,14 @@
+/Users/danilamakovskiy/Desktop/PR7/Task2/Zavd2Variant1/bin/Debug/net10.0/Zavd2Variant1
+/Users/danilamakovskiy/Desktop/PR7/Task2/Zavd2Variant1/bin/Debug/net10.0/Zavd2Variant1.deps.json
+/Users/danilamakovskiy/Desktop/PR7/Task2/Zavd2Variant1/bin/Debug/net10.0/Zavd2Variant1.runtimeconfig.json
+/Users/danilamakovskiy/Desktop/PR7/Task2/Zavd2Variant1/bin/Debug/net10.0/Zavd2Variant1.dll
+/Users/danilamakovskiy/Desktop/PR7/Task2/Zavd2Variant1/bin/Debug/net10.0/Zavd2Variant1.pdb
+/Users/danilamakovskiy/Desktop/PR7/Task2/Zavd2Variant1/obj/Debug/net10.0/Zavd2Variant1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilamakovskiy/Desktop/PR7/Task2/Zavd2Variant1/obj/Debug/net10.0/Zavd2Variant1.AssemblyInfoInputs.cache
+/Users/danilamakovskiy/Desktop/PR7/Task2/Zavd2Variant1/obj/Debug/net10.0/Zavd2Variant1.AssemblyInfo.cs
+/Users/danilamakovskiy/Desktop/PR7/Task2/Zavd2Variant1/obj/Debug/net10.0/Zavd2Variant1.csproj.CoreCompileInputs.cache
+/Users/danilamakovskiy/Desktop/PR7/Task2/Zavd2Variant1/obj/Debug/net10.0/Zavd2Variant1.dll
+/Users/danilamakovskiy/Desktop/PR7/Task2/Zavd2Variant1/obj/Debug/net10.0/refint/Zavd2Variant1.dll
+/Users/danilamakovskiy/Desktop/PR7/Task2/Zavd2Variant1/obj/Debug/net10.0/Zavd2Variant1.pdb
+/Users/danilamakovskiy/Desktop/PR7/Task2/Zavd2Variant1/obj/Debug/net10.0/Zavd2Variant1.genruntimeconfig.cache
+/Users/danilamakovskiy/Desktop/PR7/Task2/Zavd2Variant1/obj/Debug/net10.0/ref/Zavd2Variant1.dll

@@ -1,0 +1,14 @@
+/Users/danilamakovskiy/Desktop/PR7/Examples/7.3/bin/Debug/net10.0/7.3
+/Users/danilamakovskiy/Desktop/PR7/Examples/7.3/bin/Debug/net10.0/7.3.deps.json
+/Users/danilamakovskiy/Desktop/PR7/Examples/7.3/bin/Debug/net10.0/7.3.runtimeconfig.json
+/Users/danilamakovskiy/Desktop/PR7/Examples/7.3/bin/Debug/net10.0/7.3.dll
+/Users/danilamakovskiy/Desktop/PR7/Examples/7.3/bin/Debug/net10.0/7.3.pdb
+/Users/danilamakovskiy/Desktop/PR7/Examples/7.3/obj/Debug/net10.0/7.3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danilamakovskiy/Desktop/PR7/Examples/7.3/obj/Debug/net10.0/7.3.AssemblyInfoInputs.cache
+/Users/danilamakovskiy/Desktop/PR7/Examples/7.3/obj/Debug/net10.0/7.3.AssemblyInfo.cs
+/Users/danilamakovskiy/Desktop/PR7/Examples/7.3/obj/Debug/net10.0/7.3.csproj.CoreCompileInputs.cache
+/Users/danilamakovskiy/Desktop/PR7/Examples/7.3/obj/Debug/net10.0/7.3.dll
+/Users/danilamakovskiy/Desktop/PR7/Examples/7.3/obj/Debug/net10.0/refint/7.3.dll
+/Users/danilamakovskiy/Desktop/PR7/Examples/7.3/obj/Debug/net10.0/7.3.pdb
+/Users/danilamakovskiy/Desktop/PR7/Examples/7.3/obj/Debug/net10.0/7.3.genruntimeconfig.cache
+/Users/danilamakovskiy/Desktop/PR7/Examples/7.3/obj/Debug/net10.0/ref/7.3.dll
